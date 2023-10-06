@@ -22,3 +22,5 @@ Unlike Windows search "Everything" initially displays every file and folder on y
 For each USB device, extended information is displayed: Device name/description, device type, serial number (for mass storage devices), the date/time that device was added, VendorID, ProductID, and more...
 USBDeview also allows you to uninstall USB devices that you previously used, disconnect USB devices that are currently connected to your computer, as well as to disable and enable USB devices.
 You can also use USBDeview on a remote computer, as long as you login to that computer with admin user.
+
+"Shellbag Analyzer & Cleaner" is an easy-to-use utility that analyzes and cleans the list of recently opened folders on the PC, thereby removing all traces of user activity in the system, and helping to maintain confidentiality."

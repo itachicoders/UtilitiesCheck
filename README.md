@@ -13,14 +13,11 @@
 </p>
 
 # Description:
-# LastActivityView:
 "LastActivityView" is a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. The activity displayed by LastActivityView includes: Running .exe file, Opening open/save dialog-box, Opening file/folder from Explorer or other software, software installation, system shutdown/start, application or system crash, network connection/disconnection and more...
 
-# Everything:
 "Everything" is search engine that locates files and folders by filename instantly for Windows. 
 Unlike Windows search "Everything" initially displays every file and folder on your computer.
 
-# USBDeview:
 "USBDeview" is a small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
 For each USB device, extended information is displayed: Device name/description, device type, serial number (for mass storage devices), the date/time that device was added, VendorID, ProductID, and more...
 USBDeview also allows you to uninstall USB devices that you previously used, disconnect USB devices that are currently connected to your computer, as well as to disable and enable USB devices.

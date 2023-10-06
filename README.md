@@ -12,6 +12,10 @@
 	<img src="https://www.nirsoft.net/utils/usbdeview.gif" />
 </p>
 
+<p align="center">
+	<img src="https://www.softportal.com/scr/47479/shellbag-analyzer-cleaner-big-1.png" />
+</p>
+
 # Description:
 "LastActivityView" is a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. The activity displayed by LastActivityView includes: Running .exe file, Opening open/save dialog-box, Opening file/folder from Explorer or other software, software installation, system shutdown/start, application or system crash, network connection/disconnection and more...
 
